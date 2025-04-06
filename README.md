@@ -1,1 +1,1 @@
-# C-restudy
+# C++ restudy
